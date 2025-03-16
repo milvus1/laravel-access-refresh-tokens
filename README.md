@@ -3,6 +3,8 @@
 
 Basic project with refresh token implementation.
 
+[https://medium.com/@dychkosergey/access-and-refresh-tokens-using-laravel-sanctum-037392e50509](https://medium.com/@dychkosergey/access-and-refresh-tokens-using-laravel-sanctum-037392e50509)
+
 
 
 ## Configure
